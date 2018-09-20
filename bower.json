@@ -1,7 +1,7 @@
 {
   "name": "fetch-polyfill",
   "description": "A web components wrapper for the fetch polyfill from the https://github.com/github/fetch",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "Apache-2.0 OR CC-BY-4.0",
   "authors": [
     "The Advanced REST client authors <arc@mulesoft.com>"
@@ -21,7 +21,7 @@
     "url": "git@github.com:advanced-rest-client/fetch-polyfill.git"
   },
   "dependencies": {
-    "fetch": "^2.0.1"
+    "fetch": "github/fetch#^2.0.1"
   },
   "devDependencies": {},
   "ignore": [
